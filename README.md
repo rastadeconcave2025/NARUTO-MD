@@ -1,97 +1,82 @@
-<div align="center">
-     
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＶＡＪＩＲＡ+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
+NARUTO-MD
+THIS IS MULTI DEVICE WHATSAPP BOT IS WORKING LIKE 𝐍𝐀𝐑𝐔𝐓𝐎 POWERS/MAGIC VERY FAST BOT✈
 
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+NARUTO+md+Created+by+joelkang'oma.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a href="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M">
+ <img alt="NARUTO BOT" height="300" src="https://telegra.ph/file/0bc8a3f6e4e684addb141.jpg">
   
-<div align="center">
-</p
+<h1 align="center"> joel-tech  </h1> 
+<p align="center">l introduce <b>Naruto md </b>, introducing NARUTO MD a powerful simple WhatsApp bot </p>
 
-<hr>
-
-<hr>
 
 <p align="center">
-<a href="https://github.com/VajiraTech">
-    <img src="https://telegra.ph/file/235d945df230d71f246b6.jpg"  width="700px">
-</a>
-<hr>
-
-<hr>
-
-
-## JOIN MY WHATSAPP CHANNEL
-
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z)
+  <a href="https://github.com/jokathanjoka/KING-JOEL-MD/edit/main/README.md# NARUTO -MD">
+    
+  </a>
+</p>
+    
+ 
+<p align="center"><img src="https://profile-counter.glitch.me/{NARUTO MD}/count.svg" alt="NARUTO MD:: Visitor's Count" /></p>
 
 
 
-<b><details><summary>𝗦𝗢𝗖𝗜𝗔𝗟 𝗧𝗬𝗣𝗘𝗦</summary><br>
-
-## CONTACT OWNER
-
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94719199757)
-
-## JOIN SUPPORT GROUP
-
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://chat.whatsapp.com/D6w6Qy5yrhp7MmfNcprbO3)
-
-## MY YT CHANNEL
-
-[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@gamingewingyt6216) 
-
-</details>
-
-***Click [FORK](https://github.com/VajiraTech/VAJIRA-MD-fork)***
-
-***Click [My web](https://vajira-api-7967fdc132a8.herokuapp.com/)***
-
-<hr>
-
-<hr>
+---
 
 
-## DEPLOY BY SESSION ID or creds.json (Qr code)
+<a href="https://github.com/jokathanjoka/JOEL-XMD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
-<a href="https://paircode0-11304b2f69df.herokuapp.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
 
 
-<a href="https://paircode02-fc19c7206fd1.herokuapp.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
+ GET SESSION ID BY
+ 
 
-<hr>
+<a href=""><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
-<hr>
+ 
 
-## DEPLOYMENT METHODS
+<a href=""><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
-[CLICK TO SELECT DEPLOY PLATFORM](https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html)
+DEPLOY ON 
 
-<hr>
-
-<hr>
-
-</div>
-
-</div>
+<a href='' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-HEROKU-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+##
 
 
-## HOW TO DEPLOY 🧚 VAJIRA - ＭＤ 🧚
+
+
+
+THANKS TO 
+
+1.myself (joel kang'oma)
+
+
+
+
+CONTACT DEVELOPER ON WHATSAPP 
+ 
+<a href="https://wa.me/255714595078" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ joel tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+
+  
+ 
+<a href="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ JOEL  MD   CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+
+    
+
+
+## HOW TO DEPLOY ✈ NARUTO- 𝐌𝐃 ✈
 
 1) 𝙵𝙸𝚁𝚂𝚃 𝙵𝙾𝚁𝙺 𝚃𝙷𝙴 𝚁𝙴𝙿𝙾.
-2) 𝚂𝙲𝙰𝙽 𝚃𝙷𝙴 𝚀𝚁 𝚃𝙷𝙴𝙽 𝚆𝙸𝙻𝙻 𝙲𝙾𝙼𝙴 𝚂𝙴𝚂𝚂𝙸𝙾𝙽 𝙸𝙳.
-4) 𝙰𝙽𝙳 𝚂𝙴𝙻𝙴𝙲𝚃 𝙵𝙾𝚁𝙺 𝚁𝙴𝙿𝚘 𝙰𝙽𝙳 𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙷𝙴 𝙱𝙾𝚃.
-5) 𝙿𝚄𝚃 𝙳𝚈𝙽𝙾 𝚃𝙾 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙸𝙾𝙽𝙰𝙻 𝙰𝙽𝙳 𝙿𝚄𝚃 𝙸𝚃 2𝚡.
-6) 𝙽𝙾𝚆 𝙴𝙽𝙹𝙾𝚈 𝚃𝙷𝙴 𝚅𝙰𝙹𝙸𝚁𝙰 𝙼𝙳 𝙱𝙾𝚃.
+2) 𝙿𝙰𝙸𝚁 𝚃𝙷𝙴 𝙲𝙾𝙳𝙴 𝚃𝙷𝙴𝙽 𝚆𝙸𝙻𝙻 𝙲𝙾𝙼𝙴 𝚂𝙴𝚂𝚂𝙸𝙾𝙽 𝙸𝙳.
+4) 𝙰𝙽𝙳 𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙷𝙴 𝙱𝙾𝚃.
+5) 𝙷𝙴𝚁𝙾𝙺𝚄 𝙳𝙾𝙽𝙴 
+6) 𝙽𝙾𝚆 𝙴𝙽𝙹𝙾𝚈 𝚃𝙷𝙴 𝙽𝙰𝚁𝚄𝚃𝙾 𝙼𝙳 𝙱𝙾𝚃.
 
 
-## THANKS TO 👨‍💻
-
-• Asif King - Web Design
-
-• Kasun - Testing
-
-• Danidu Nirmal - Logo Design
-
-• Ushani - Voice Helper
+## THANK YOU ENJOY 👨‍💻
 
 
